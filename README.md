@@ -1,4 +1,6 @@
 # Welcome to Adnaan Shah's GitHub Profile 👋
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/-Django-green?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 ## About Me
 I'm an Electronics and Telecommunications undergraduate at Sinhgad Academy of Engineering with a deep passion for technology and innovation. My interests lie in Artificial Intelligence, cybersecurity, and software development. I thrive on exploring new technologies and contributing to meaningful projects.
