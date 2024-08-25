@@ -1,4 +1,5 @@
 # Welcome to Adnaan Shah's GitHub Profile 👋
+[![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-000000?style=flat&logo=security&logoColor=white)](https://www.cybersecurity.com/)
 
 ## 👨‍💻 About Me
 I’m **Adnaan Shah**, an Electronics and Telecommunications undergraduate at Sinhgad Academy of Engineering. My journey in tech is fueled by a passion for **Artificial Intelligence**, **cybersecurity**, and **software development**. I thrive on exploring cutting-edge technologies and contributing to impactful projects.
