@@ -5,32 +5,39 @@ I’m **Adnaan Shah**, an Electronics and Telecommunications undergraduate at Si
 
 [![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 🔧 Skills
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python, C++ , Javascript
 - **Frameworks & Tools:** Django, Flask, Docker, Git, VS Code
 - **Specializations:** Cybersecurity, AI, Machine Learning
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnaanzshah&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanzshah&layout=compact&hide_title=true&hide_border=true&theme=radical)
+![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=adnaanzshah&hide_border=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=adnaanzshah&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## 🚀 Featured Projects
 - **[CyberGuard-Keylogger](https://github.com/adnaanzshah/CyberGuard-Keylogger):** A robust Python application for logging keystrokes and mouse actions with email reporting. A valuable tool for understanding keylogging in cybersecurity.
 - **[AI Desktop Voice Assistant](https://github.com/adnaanzshah/AI_Desktop_Voice_Assistant):** An advanced Python-based voice assistant designed to simplify desktop tasks through voice commands, showcasing powerful AI and speech recognition capabilities.
-
-## 🌟 Achievements
-- **IBM Certified:** [Getting Started with Artificial Intelligence](https://www.coursera.org/account/accomplishments/certificate/a5WiwtO5)
-- **IBM Certified:** [Enterprise-grade AI](https://www.coursera.org/account/accomplishments/certificate/k8ourXqJ)
-- **IIT Bombay Spoken Tutorial:** Arduino Training (Score: 95%) - [Certificate](https://drive.google.com/file/d/1rRETkkAPGms-gXAEMPK0bHBSuYca2P3O/view?usp=drive_link)
-
-## 📫 Connect with Me
-- **LinkedIn:** [Adnaan Shah](https://www.linkedin.com/in/adnaanzshah)
-- **Email:** [adnaanzshah@gmail.com](mailto:adnaanzshah@gmail.com)
+- 
+## 📜 Licenses & Certifications
+- **[Advanced Learning Algorithms](https://www.deeplearning.ai/):** DeepLearning.AI (Issued Jun 2024)  
+  Credential ID: ZW2F7LR6FDRC  
+  Skills: Advanced Model Development Techniques, Deep Learning, Machine Learning, Artificial Neural Networks, TensorFlow, XGBoost, Tree Ensembles
+  
+- **[Stanford Certified: Supervised Machine Learning: Regression and Classification](https://www.deeplearning.ai/):** DeepLearning.AI (Issued Oct 2023)  
+  Credential ID: F4UHLCWY5XAAA  
+  Skills: Deep Learning, Machine Learning, Linear Regression
+  
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adnaanzshah) [Adnaan Shah](https://www.linkedin.com/in/adnaanzshah)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adnaanzshah@gmail.com) [adnaanzshah@gmail.com](mailto:adnaanzshah@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/adnaanzshah) [@adnaanzshah](https://www.instagram.com/adnaanzshah)  
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat&logo=threads&logoColor=white)](https://www.threads.net/@adnaanzshah) [@adnaanzshah](https://www.threads.net/@adnaanzshah)
 
 ## 🎯 My Goals
 - **Expand Knowledge:** Continue to deepen expertise in AI and cybersecurity.
