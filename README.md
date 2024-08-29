@@ -16,8 +16,6 @@ I’m **Adnaan Shah**, an Electronics and Telecommunications undergraduate at Si
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnaanzshah&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanzshah&layout=compact&hide_title=true&hide_border=true&theme=radical)
-![Contributions Graph](https://github-readme-streak-stats.herokuapp.com/?user=adnaanzshah&hide_border=true)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=adnaanzshah&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🚀 Featured Projects
