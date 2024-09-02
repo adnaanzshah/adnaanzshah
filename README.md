@@ -12,7 +12,7 @@ I’m **Adnaan Shah**, an Electronics and Telecommunications undergraduate at Si
 [![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 
 ## 🔧 Skills
-- **Programming Languages:** Python, C++ , Javascript
+- **Programming Languages:** Python, C++ , Web Developmetn , Javascript
 - **Frameworks & Tools:** Django, Flask, Docker, Git, VS Code
 - **Specializations:** Cybersecurity, AI, Machine Learning
 
