@@ -1,77 +1,61 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:051114&height=150&text=ADNAAN_SHAH&fontColor=00FFCC&fontSize=65&desc=AI%20Architecture%20%7C%20Machine%20Learning%20%7C%20Python%20Mastery&descAlignY=75&descAlign=50&animation=twinkling" width="100%">
+
+# `adnaan@arch-ai:~$ ./initialize_profile.sh`
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Data+Scientist;Architecting+Machine+Intelligence;Deploying+High-Performance+Models;Engineering+Scalable+Data+Systems" alt="Typing SVG" />
+</a>
+
 </div>
 
-<br>
+---
 
-<table width="100%" style="background-color: transparent; border: none;">
-  <tr>
-    <td width="55%" valign="top" style="border: none; padding-right: 20px;">
-      <h2 style="color: #00FFCC;">✦ EXECUTIVE SUMMARY</h2>
-      <p>I am a Data Scientist and AI Engineer specializing in high-performance machine learning workflows and complex data architecture. My engineering philosophy revolves around absolute system efficiency—utilizing minimalist environments to extract maximum computational power.</p>
-      <p>Currently, I am researching advanced predictive models and autonomous control systems designed for extreme physical environments. Operating with a high-performance Python stack, I build sophisticated, scalable intelligence architectures engineered for production.</p>
-    </td>
-    
-    <td width="45%" valign="top" style="border: none;">
-      <h2 style="color: #00FFCC;">✦ CORE DOMAINS</h2>
-      <ul style="list-style-type: square;">
-        <li><b>Autonomous Systems Architecture</b></li>
-        <li><b>Deep Learning & Neural Networks</b></li>
-        <li><b>Predictive Data Modeling</b></li>
-        <li><b>High-Efficiency Python Backend</b></li>
-        <li><b>Advanced Cybersecurity Concepts</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 💻 `adnaan@arch-ai:~$ whoami`
+Data Scientist and AI Engineer focused on high-performance machine learning workflows and complex data architecture. I prioritize absolute system efficiency, operating primarily in Python to architect scalable intelligence systems from raw data processing to production-ready deployment. Currently researching autonomous control architectures and predictive models for extreme physical environments.
+
+### ⚙️ `adnaan@arch-ai:~$ uname -sm`
+`Linux x86_64` *(Optimized via Arch Linux & systemd-boot)*
+
+---
 
 <br>
 
 <div align="center">
-  <h2 style="color: #00FFCC;">✦ NEURAL NETWORK & TECH STACK ✦</h2>
-  <p><i>Technologies scaled for high-performance and deep learning workflows.</i></p>
+
+## ✦ NEURAL NETWORK & TECH STACK ✦
+*Technologies scaled for high-performance and deep learning workflows.*
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,arch&theme=dark" alt="Tech Stack" />
+
+</div>
+
+<br>
+
+---
+
+### 📂 `adnaan@arch-ai:~$ cat /var/log/deployments.log`
+
+**[2026] Shadow Fox | Machine Learning Intern**
+> Engineered robust data pipelines and built high-accuracy predictive models utilizing TensorFlow and NumPy. Autonomously managed the complete ML lifecycle, tuning complex models to aggressively meet strict industry-standard performance metrics.
+
+**[2026] Prodigy InfoTech | Machine Learning Intern**
+> Applied advanced Machine Learning algorithms directly to highly complex, real-world datasets. Directed the complete architectural workflow—from raw data preprocessing to the final deployment of high-quality, scalable predictive models.
+
+**[2026] SimuSoft Technologies | Student Intern**
+> Executed offline programming and simulated complex robotics via RoboDK and TIA Portal. Bridged theoretical software systems with physical reality by implementing SCARA kinematics and applying advanced Industry 4.0 paradigms to live industrial setups.
+
+---
+
+### 📡 `adnaan@arch-ai:~$ netstat -tulpen | grep ESTABLISHED`
+
+<div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,numpy,linux,bash,postgres,git&theme=dark&perline=8" alt="Tech Stack" />
-</div>
-
-<br><br>
-
-<table width="100%" style="background-color: transparent; border: none;">
-  <tr>
-    <td width="60%" valign="top" style="border: none; padding-right: 20px;">
-      <h2 style="color: #00FFCC;">✦ RECENT DEPLOYMENTS</h2>
-      
-      <h4>Machine Learning Intern | <span style="color: #8b949e;">Shadow Fox</span></h4>
-      <p>Architected end-to-end data pipelines and TensorFlow predictive models. Tuned complex algorithms to meet aggressive, industry-standard performance metrics.</p>
-      
-      <h4>Machine Learning Intern | <span style="color: #8b949e;">Prodigy InfoTech</span></h4>
-      <p>Managed full-lifecycle deployments of complex ML algorithms on real-world datasets, driving data from raw preprocessing to production-quality deployment.</p>
-      
-      <h4>Student Intern | <span style="color: #8b949e;">SimuSoft Technologies</span></h4>
-      <p>Simulated physical robotics and SCARA kinematics via RoboDK, bridging the gap between advanced theoretical software paradigms and physical industrial mechanics.</p>
-    </td>
-    
-    <td width="40%" valign="top" style="border: none;">
-      <h2 style="color: #00FFCC;">✦ SYSTEM TELEMETRY</h2>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api?username=adnaanzshah&show_icons=true&theme=vision-ui-dark&hide_border=true&bg_color=00000000&title_color=00FFCC&text_color=ffffff&icon_color=00FFCC" width="100%" alt="GitHub Stats"/>
-      <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnaanzshah&layout=compact&theme=vision-ui-dark&hide_border=true&bg_color=00000000&title_color=00FFCC&text_color=ffffff" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
-  <br><br>
   <a href="https://linkedin.com/in/adnaanzshah">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FFCC?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:adnaanzshah@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-SECURE_COMMS-00FFCC?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <br><br>
 </div>
