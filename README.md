@@ -51,7 +51,7 @@ Operating strictly within a high-performance Python stack, I build sophisticated
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adnaanzshah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC&text_color=c9d1d9" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnaanzshah&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=ffffff" width="48%" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=adnaanzshah&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFCC&fire=00FFCC&currStreakNum=ffffff" width="48%" alt="GitHub Streak" /> -->
 </div>
 
 <br>
